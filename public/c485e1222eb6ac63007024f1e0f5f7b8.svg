@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg viewBox="0 0 500 1000" xmlns="http://www.w3.org/2000/svg">
+ <g transform="translate(0 -52.362)" stroke="#000">
+  <path d="m63.759 66.121h372.48a50 50 0 0 1 50 50v872.48a50 50 0 0 1 -50 50h-372.48a50 50 0 0 1 -50 -50v-872.48a50 50 0 0 1 50 -50" fill="#fff" fill-rule="evenodd" stroke-linejoin="round" stroke-width="27.517"/>
+  <path d="m45 552.36h410" fill="none" stroke-width="10"/>
+ </g>
+ <g transform="translate(0 -52.362)">
+  <path d="m160 456a50 50 0 1 0 -100 0 50 50 0 1 0 100 0"/>
+  <path d="m440 168a50 50 0 1 0 -100 0 50 50 0 1 0 100 0"/>
+  <path d="m160 936a50 50 0 1 0 -100 0 50 50 0 1 0 100 0"/>
+  <path d="m160 648a50 50 0 1 0 -100 0 50 50 0 1 0 100 0"/>
+  <path d="m440 936a50 50 0 1 0 -100 0 50 50 0 1 0 100 0"/>
+  <path d="m440 648a50 50 0 1 0 -100 0 50 50 0 1 0 100 0"/>
+ </g>
+</svg>
