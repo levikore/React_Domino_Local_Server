@@ -1,5 +1,5 @@
 # React_Domino_Local_Server
-online domino game for 2 to 3 playes on a local server.
+Online domino game for 2 to 3 playes on a local server.
 Built using ReactJS, NodeJS, ExpressJS.
 
 ## Run:
