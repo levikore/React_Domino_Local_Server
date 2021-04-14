@@ -8,7 +8,7 @@ Built using ReactJS, NodeJS, ExpressJS.
 3) Ender command "npm run build-watch"
 4) Open a second terminal in the same folder
 5) In the second terminal enter command "npm run start-watch"
-6) In browser got to: http://localhost:3000
+6) In browser open: http://localhost:3000
 
 ** Keep both terminals running!
 
